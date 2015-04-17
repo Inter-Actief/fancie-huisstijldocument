@@ -10,14 +10,18 @@ Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn blauw, groen en r
 * Gebruik voor drukwerk bij voorkeur PMS, daarna CMYK.
 * Gebruik voor digitaal werk RGB of HEX.
 
-Blauw is daarbij de hoofdkleur.
 <style>
   table {
     width: 100%;
     border-collapse: collapse
   }
+
+  table + p {
+    margin-top: 10px;
+  }
 </style>
 
+Blauw is daarbij de hoofdkleur.
 <table>
   <tr>
     <th style="background-color: #1D428A; height: 20px"></th>
@@ -36,6 +40,7 @@ Blauw is daarbij de hoofdkleur.
     <td>HEX</td><td>#1D428A</td>
   </tr>
 </table>
+
 
 Gebruik groen als eerste steunkleur.
 <table>
