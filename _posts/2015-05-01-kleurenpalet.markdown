@@ -11,7 +11,7 @@ Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn blauw, groen en r
 * Gebruik voor digitaal werk RGB of HEX.
 
 Blauw is daarbij de hoofdkleur.
-<table style="width: 100%; border-collapse: collapse">
+<table>
   <tr>
     <th style="background-color: #1D428A; height: 20px"></th>
     <th style="background-color: #1D428A; height: 20px"></th>
@@ -31,7 +31,7 @@ Blauw is daarbij de hoofdkleur.
 </table>
 
 Gebruik groen als eerste steunkleur.
-<table style="width: 100%; border-collapse: collapse">
+<table>
   <tr>
     <th style="background-color: #077821; height: 20px"></th>
     <th style="background-color: #077821; height: 20px"></th>
@@ -51,7 +51,7 @@ Gebruik groen als eerste steunkleur.
 </table>
 
 Gebruik rood als tweede steunkleur.
-<table style="width: 100%; border-collapse: collapse">
+<table>
   <tr>
     <th style="background-color: #B8231F; height: 20px"></th>
     <th style="background-color: #B8231F; height: 20px"></th>
