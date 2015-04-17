@@ -11,6 +11,13 @@ Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn blauw, groen en r
 * Gebruik voor digitaal werk RGB of HEX.
 
 Blauw is daarbij de hoofdkleur.
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse
+  }
+</style>
+
 <table>
   <tr>
     <th style="background-color: #1D428A; height: 20px"></th>
