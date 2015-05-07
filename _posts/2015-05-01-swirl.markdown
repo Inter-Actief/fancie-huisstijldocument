@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Swirl"
+date:   2015-05-01 00:00:35
+categories: algemeen
+---
+Het beeldmerk van Inter-*Actief* is gebaseerd op het THT-logo met een boog, die swirl genoemd wordt. 
+
+Voor commissielogo's die hun logo willen baseren op dat van Inter-*Actief* is deze swirl ook los beschikbaar.
+
+Downloads
+---------
+* [AI]({{ site.baseurl }}/inter-actief-swirl.ai)
+* [PDF]({{ site.baseurl }}/inter-actief-swirl.pdf)
+* [SVG]({{ site.baseurl }}/inter-actief-swirl.svg)
+
+<style>
+  img { display: block; float: left; margin: 0 5px 5px 0; }
+</style>
+
+Voorbeeld
+---------
+<img src="{{ site.baseurl }}/assets/inter-actief-swirl.png" style="background-color: #fff; width: 30%;" title="100%" alt="100%" />
