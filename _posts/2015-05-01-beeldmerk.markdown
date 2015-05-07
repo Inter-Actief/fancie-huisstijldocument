@@ -6,13 +6,23 @@ categories: algemeen
 ---
 Het beeldmerk van Inter-*Actief* is gebaseerd op het THT-logo met een boog, die swirl genoemd wordt. Het beeldmerk bevat **niet** de tekst Inter-*Actief*.
 
-Je kunt het beeldmerk gebruiken voor speldjes, constitutiekaartjes en andere plaatsen waar de ruimte beperkt is. Het beeldmerk mag in de originele blauwe of witte kleur worden gebruikt, zolang het contrast voldoende is. Houd een marge van 10% aan ten op zichte het gehele beeldmerk, zoals in de voorbeelden te zien is. 
+Je kunt het beeldmerk gebruiken voor speldjes, constitutiekaartjes en andere plaatsen waar de ruimte beperkt is. Gebruik bij voldoende ruimte het volledige [logo]({% post_url 2015-05-01-logo %}). Het beeldmerk mag in de originele blauwe of witte kleur worden gebruikt, zolang het contrast voldoende is. Houd een marge van 10% aan ten op zichte het gehele beeldmerk, zoals in de voorbeelden te zien is.
 
 Downloads
 ---------
-* [AI]({{ site.baseurl }}/inter-actief-beeldmerk.ai)
-* [PDF]({{ site.baseurl }}/inter-actief-beeldmerk.pdf)
-* [SVG]({{ site.baseurl }}/inter-actief-beeldmerk.svg)
+
+### Blauw
+
+* [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk.ai)
+* [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk.pdf)
+* [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk.svg)
+
+### Wit
+Let op: de achtergrond is transparant, de vormen zijn wit.
+
+* [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.ai)
+* [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.pdf)
+* [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.svg)
 
 <style>
   img { display: block; float: left; margin: 0 5px 5px 0; }
