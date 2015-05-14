@@ -11,26 +11,23 @@ Het logo wordt overal gebruikt waar Inter-*Actief* wordt afgebeeld, tenzij de ru
 Downloads
 ---------
 
-### Blauw
-
-* [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai)
-* [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf)
-* [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg)
-
-### Wit
-
-Let op: de achtergrond is transparant, de vormen zijn wit.
-
-* [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai)
-* [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf)
-* [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg)
+|| AI | PDF | SVG |
+|---|---|---|---|
+|Logo verticaal (blauw) | [Click me!]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai) | [No me!]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf) | [Please?]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg)
+| Logo verticaal (wit) | [How about me?]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai) | [I'm super sexy]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf) | [It's so fluffy!]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg)
+| Logo horizontaal (blauw) | [Balalala~]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.ai) | [I choose you!]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.pdf) | [Download]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.svg)
+| Logo horizontaal (wit) | [Pick me]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.ai) | [Omnomnom]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.pdf) | [Cookies!]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.svg)
 
 <style>
   img { display: block; float: left; margin: 0 5px 5px 0; }
+  .clear-both { clear: both;}
 </style>
 
 Voorbeelden
 -----------
+
+### Logo verticaal
+
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #000; width: 30%;" title="100%" alt="100%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #1A1A1A; width: 30%;" title="90%" alt="90%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #333; width: 30%;" title="80%" alt="80%" />
@@ -42,3 +39,19 @@ Voorbeelden
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder.png" style="background-color: #CCC; width: 30%;" title="20%" alt="20%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder.png" style="background-color: #E5E5E5; width: 30%;" title="10%" alt="10%"/>
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder.png" style="background-color: #FFF; width: 30%;" title="0%" alt="0%" />
+
+<div class="clear-both"></div>
+
+### Logo horizontaal
+
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #000; width: 30%;" title="100%" alt="100%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #1A1A1A; width: 30%;" title="90%" alt="90%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #333; width: 30%;" title="80%" alt="80%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #4D4D4D; width: 30%;" title="70%" alt="70%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #666; width: 30%;" title="60%" alt="60%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #808080; width: 30%;" title="50%" alt="50%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #999; width: 30%;" title="40%" alt="40%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #B3B3B3; width: 30%;" title="30%" alt="30%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #CCC; width: 30%;" title="20%" alt="20%" />
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #E5E5E5; width: 30%;" title="10%" alt="10%"/>
+<img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #FFF; width: 30%;" title="0%" alt="0%" />
