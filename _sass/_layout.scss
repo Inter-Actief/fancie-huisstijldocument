@@ -166,7 +166,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .post-list {
@@ -175,6 +175,18 @@
 
     > li {
         margin-bottom: $spacing-unit;
+    h2 {
+        display: inline;
+    }
+    }
+
+    > li:before {
+        color:#1d428a;
+        content:"\2022";
+        font-size:1.5em;
+        padding-right:.25em;
+        position:relative;
+        top:.1em;
     }
 }
 
@@ -184,7 +196,6 @@
 }
 
 .post-link {
-    display: block;
     font-size: 24px;
 }
 
