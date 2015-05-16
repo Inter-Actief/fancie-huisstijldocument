@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Overige"
+date:   2015-05-01 00:00:35
+categories: algemeen
+---
+Op deze pagina zijn linkjes te vinden naar bestanden die geen verder toelichting krijgen. Ze horen echter wel bij de huisstijl en daarom zijn ze hier te vinden.
+
+* ALV-stukken
+* [Briefpapier]({{ site.baseurl }}/assets/briefpapier.ai)
+* Enveloppen
+* Informatiepakket
+* Inlogscherm: [1050p]({{ site.baseurl }}/assets/achtergrond_1050p.png) \| [1080p]({{ site.baseurl }}/assets/achtergrond_1080p.png)
+* Kamerdeur
+* Mapruggen: [AI]({{ site.baseurl }}/assets/maprug.ai) \| [PDF]({{ site.baseurl }}/assets/maprug.pdf)
+* [Prikbordrand]({{ site.baseurl }}/assets/rand-boven-prikbord.ai)
+* [Raamstickers]({{ site.baseurl }}/assets/raamstickers.ai)
+* Stickers: [AI]({{ site.baseurl }}/assets/stickers_10cm_10cm.ai) \| [PDF]({{ site.baseurl }}/assets/stickers_10cm_10cm.pdf)
