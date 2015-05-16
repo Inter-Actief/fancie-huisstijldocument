@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visitekaartjes"
-date:   2015-05-01 00:00:35
+date:   2015-05-01 00:00:18
 categories: algemeen
 ---
 Het visitekaartje bestaat uit twee delen, namelijk een 

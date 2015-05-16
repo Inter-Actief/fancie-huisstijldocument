@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beeldmerk"
-date:   2015-05-01 00:00:35
+date:   2015-05-01 00:00:42
 categories: algemeen
 ---
 Het beeldmerk van Inter-*Actief* is gebaseerd op het THT-logo met een boog, die swirl genoemd wordt. Het beeldmerk bevat **niet** de tekst Inter-*Actief*.

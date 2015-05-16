@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presentatietemplate"
-date:   2015-05-01 00:00:35
+date:   2015-05-01 00:00:28
 categories: algemeen
 ---
 De presentatietemplate van Inter-*Actief* is geschikt voor breedbeeld.

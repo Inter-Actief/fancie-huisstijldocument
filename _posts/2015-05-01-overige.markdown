@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overige"
-date:   2015-05-01 00:00:35
+date:   2015-05-01 00:00:29
 categories: algemeen
 ---
 Op deze pagina zijn linkjes te vinden naar bestanden die geen verder toelichting krijgen. Ze horen echter wel bij de huisstijl en daarom zijn ze hier te vinden.
