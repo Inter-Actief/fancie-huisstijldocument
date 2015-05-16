@@ -4,7 +4,7 @@ title:  "Logo"
 date:   2015-05-01 00:00:33
 categories: algemeen
 ---
-Het logo van Inter-*Actief* is gebaseerd op het THT-logo met een boog, die swirl genoemd wordt. Het beeldmerk bevat de tekst Inter-*Actief*.
+Het logo van Inter-*Actief* is gebaseerd op het THT-logo met een boog, die <a href="#swirl">swirl</a> genoemd wordt. Het beeldmerk bevat de tekst Inter-*Actief*.
 
 Het logo wordt overal gebruikt waar Inter-*Actief* wordt afgebeeld, tenzij de ruimte te klein is. Gebruik dan het [beeldmerk]({% post_url 2015-05-01-beeldmerk %}). Het beeldmerk mag in de originele blauwe of witte kleur worden gebruikt, zolang het contrast voldoende is. Houd een marge van 10% aan ten op zichte het gehele beeldmerk, zoals in de voorbeelden te zien is.
 
@@ -55,3 +55,24 @@ Voorbeelden
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #CCC; width: 30%;" title="20%" alt="20%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #E5E5E5; width: 30%;" title="10%" alt="10%"/>
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.png" style="background-color: #FFF; width: 30%;" title="0%" alt="0%" />
+
+<div class="clear-both"></div>
+
+Swirl
+-----
+<a name="swirl"></a>
+Voor commissielogo's die hun logo willen baseren op dat van Inter-*Actief* is deze swirl ook los beschikbaar.
+
+Downloads
+---------
+* [AI]({{ site.baseurl }}/inter-actief-swirl.ai)
+* [PDF]({{ site.baseurl }}/inter-actief-swirl.pdf)
+* [SVG]({{ site.baseurl }}/inter-actief-swirl.svg)
+
+<style>
+  img { display: block; float: left; margin: 0 5px 5px 0; }
+</style>
+
+Voorbeeld
+---------
+<img src="{{ site.baseurl }}/assets/inter-actief-swirl.png" style="background-color: #fff; width: 30%;" title="100%" alt="100%" />
