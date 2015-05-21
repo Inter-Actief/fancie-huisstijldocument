@@ -33,14 +33,13 @@ ul, ol, dl, figure,
 }
 
 /**
- *
+ * Buttons
  */
 .btn {
     padding: 6px 10px;
     margin: 0 4px;
 
     border-radius: 2px;
-    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
 }
 
 .btn-blue {
@@ -76,6 +75,7 @@ ul, ol, dl, figure,
 .btn-white {
     color: $brand-color;
     background-color: white;
+    border: 1px solid $brand-color;
 
     &:hover {
         color: $brand-color;

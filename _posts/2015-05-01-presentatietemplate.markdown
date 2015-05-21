@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presentatietemplate"
-date:   2015-05-01 00:00:38
+date:   2015-05-01 00:00:37
 categories: algemeen
 ---
 Voor het geven van presentaties is er een presentatie template beschikbaar. Deze bevat een titel slide en een standaard
