@@ -1,27 +1,23 @@
 ---
 layout: post
 title:  "Kleurenpalet"
-date:   2015-05-01 00:00:35
+date:   2015-05-01 00:00:40
 categories: algemeen
 ---
 
-Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn blauw, groen en rood.
+Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn naast blauw, groen en rood. Natuurlijk is ons Inter-*Actief*
+ blauw de kleur die het meeste herkenbaar is en we moedigen iedereen dan ook aan om ontwerpen zoveel mogelijk rond het
+ blauw te bedenken. Als er meerdere kleuren nodig zijn kunnen groen en rood ook gebruikt worden, maar gebruik deze kleuren
+ alleen als het nodig is. Vaak is een ontwerp dat slechts gebruik maakt van een kleur overtuigender dan een ontwerp dat
+ te pas en te onpas allerlei kleuren gebruikt.
 
+Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal worden. Zowel voor drukwerk als digitaal
+ werk zijn hieronder de kleuren gegeven.
 * Gebruik voor drukwerk bij voorkeur PMS, daarna CMYK.
 * Gebruik voor digitaal werk RGB of HEX.
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse
-  }
-
-  table + p {
-    margin-top: 10px;
-  }
-</style>
-
-Blauw is daarbij de hoofdkleur.
+{:.blue}
+### Blauw is de hoofdkleur.
 <table>
   <tr>
     <th></th>
@@ -43,8 +39,8 @@ Blauw is daarbij de hoofdkleur.
   </tr>
 </table>
 
-
-Gebruik groen als eerste steunkleur.
+{:.green}
+### Gebruik groen als eerste steunkleur.
 <table>
   <tr>
     <th></th>
@@ -66,7 +62,8 @@ Gebruik groen als eerste steunkleur.
   </tr>
 </table>
 
-Gebruik rood als tweede steunkleur.
+{:.red}
+### Gebruik rood als tweede steunkleur.
 <table>
   <tr>
     <th></th>
