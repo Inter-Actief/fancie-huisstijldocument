@@ -98,12 +98,16 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    background-color: $brand-color;
     padding: $spacing-unit 0;
+
+
+    box-shadow: inset 0 15px 15px -8px rgba(0, 0, 0, 0.4);
 }
 
 .footer-heading {
     font-size: 18px;
+    color: $background-color;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -111,11 +115,15 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+    a {
+        color: $background-color;
+    }
 }
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $background-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
