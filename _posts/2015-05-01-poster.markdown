@@ -33,8 +33,10 @@ Tips:
 
 Voorbeelden
 -----------
-# TODO
+![bierproeverij]({{ site.baseurl}}/assets/bierproeverij.png)
+
+![pyajamaparty]({{ site.baseurl}}/assets/pyajamaparty.png)
 
 Downloads
 ---------
-# TODO
+[AI]({{ site.baseurl }}/assets/postertemplate.ai){:.btn .btn-white}
