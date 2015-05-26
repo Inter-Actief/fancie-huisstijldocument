@@ -25,11 +25,8 @@ Hoe werkt het
 
 Tips:
 
- * In de lagen (rechts onderin in Illustrator) is een aparte laag voor de achtergrond foto gemaakt, als je een foto importeerd
- en deze vervolgens in die laag sleept wordt hij automatisch bijgesneden tot het formaat van de poster. Zo heb je een
- beter beeld van het uiteindelijke ontwerp.
- * Hoewel de postertemplate geschikt is voor allerlei soorten foto's raden wij aan om geen foto's te gebruiken met hele
- lichte achtergronden, let er ook op dat de tekst bovenin de poster nog goed te lezen is als je foto er eenmaal achter staat.
+* In de lagen (rechts onderin in Illustrator) is een aparte laag voor de achtergrondfoto gemaakt. Als je de foto importeert als laag en deze vervolgens onder de achtergrondlaag sleept, wordt hij automatisch bijgesneden tot het formaat van de poster.
+* Hoewel de postertemplate geschikt is voor allerlei soorten achtergrondfoto's raden wij aan om geen achtergrondfoto's te gebruiken met hele lichte achtergronden. Let er ook op dat de tekst bovenin de poster nog goed te lezen is als je achtergrondfoto er eenmaal achter staat.
 
 Voorbeelden
 -----------

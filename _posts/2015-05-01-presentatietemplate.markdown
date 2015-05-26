@@ -4,8 +4,8 @@ title:  "Presentatietemplate"
 date:   2015-05-01 00:00:37
 categories: algemeen
 ---
-Voor het geven van presentaties is er een presentatie template beschikbaar. Deze bevat een titel slide en een standaard
- slide die gebruikt kunnen worden voor het maken van presentaties. De presentatietemplate van Inter-*Actief* is geschikt
+Voor het geven van presentaties is er een presentatietemplate beschikbaar. Deze bevat een titelslide en een standaard
+slide die gebruikt kunnen worden voor het maken van presentaties. De presentatietemplate van Inter-*Actief* is geschikt
  voor breedbeeld.
 
 Voorbeelden

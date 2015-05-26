@@ -21,13 +21,13 @@ Bodyteksten (12pt)
 ------------------
 
 ### Drukwerk
-Voor body teksten die gedrukt worden, gebruiken we een lettertype met schreef (serif), Palatino Linotype. Palatino Linotype
+Voor bodyteksten die gedrukt worden, gebruiken we een lettertype met schreef (serif), Palatino Linotype. Palatino Linotype
  is standaard geïnstalleerd op Windows en OS X. Het open alternatief dat we aanbieden is [Droid Serif]({{ site.baseurl }}/assets/droid-serif.ttf).
 
 <img src="{{ site.baseurl }}/assets/body-text-with-serif.png" style="height: 25px"/>
 
 ### Digitaal werk
-Voor body teksten die digitaal zijn, gebruiken we een schreefloos lettertype (sans-serif),
+Voor bodyteksten die digitaal zijn, gebruiken we een schreefloos lettertype (sans-serif),
  [Open Sans]({{ site.baseurl }}/assets/open-sans-regular.ttf) (met fallback naar Arial).
 
 <img src="{{ site.baseurl }}/assets/body-text-sans-serif.png" style="height: 25px"/>
