@@ -30,9 +30,7 @@ Tips:
 
 Voorbeelden
 -----------
-![bierproeverij]({{ site.baseurl}}/assets/bierproeverij.png)
-
-![pyajamaparty]({{ site.baseurl}}/assets/pyajamaparty.png)
+![demo]({{ site.baseurl}}/assets/postertemplate.png)
 
 Downloads
 ---------
