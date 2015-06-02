@@ -16,17 +16,17 @@ Je kunt het beeldmerk gebruiken op speldjes, constitutiekaartjes en andere plaat
 Voorbeelden
 -----------
 
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #1A1A1A; width: 24%;" title="90%" alt="90%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #333; width: 24%;" title="80%" alt="80%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #4D4D4D; width: 24%;" title="70%" alt="70%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #666; width: 24%;" title="60%" alt="60%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #808080; width: 24%;" title="50%" alt="50%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #999; width: 24%;" title="40%" alt="40%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #B3B3B3; width: 24%;" title="30%" alt="30%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #CCC; width: 24%;" title="20%" alt="20%" />
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #E5E5E5; width: 24%;" title="10%" alt="10%"/>
-<img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #FFF; width: 24%;" title="0%" alt="0%" />
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" data-lightbox="beeldmerk">Beeldmerk 100%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #1A1A1A; width: 24%;" title="90%" alt="90%" data-lightbox="beeldmerk">Beeldmerk 90%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #333; width: 24%;" title="80%" alt="80%" data-lightbox="beeldmerk">Beeldmerk 80%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #4D4D4D; width: 24%;" title="70%" alt="70%" data-lightbox="beeldmerk">Beeldmerk 70%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #666; width: 24%;" title="60%" alt="60%" data-lightbox="beeldmerk">Beeldmerk 60%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #808080; width: 24%;" title="50%" alt="50%" data-lightbox="beeldmerk">Beeldmerk 50%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #999; width: 24%;" title="40%" alt="40%" data-lightbox="beeldmerk">Beeldmerk 40%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #B3B3B3; width: 24%;" title="30%" alt="30%" data-lightbox="beeldmerk">Beeldmerk 30%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #CCC; width: 24%;" title="20%" alt="20%" data-lightbox="beeldmerk">Beeldmerk 20%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #E5E5E5; width: 24%;" title="10%" alt="10%" data-lightbox="beeldmerk">Beeldmerk 10%</a>
+<a href="{{ site.baseurl }}/assets/inter-actief-beeldmerk.png" style="background-color: #FFF; width: 24%;" title="0%" alt="0%" data-lightbox="beeldmerk">Beeldmerk 0%</a>
 
 Downloads
 ---------
