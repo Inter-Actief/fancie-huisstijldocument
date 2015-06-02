@@ -15,6 +15,7 @@ Voorbeelden
 
 ### Logo verticaal
 
+{:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #1A1A1A; width: 24%;" title="90%" alt="90%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #333; width: 24%;" title="80%" alt="80%" />
@@ -31,6 +32,7 @@ Voorbeelden
 
 ### Logo horizontaal
 
+{:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #1A1A1A; width: 24%;" title="90%" alt="90%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #333; width: 24%;" title="80%" alt="80%" />
@@ -62,7 +64,9 @@ Voor commissielogo's die hun logo willen baseren op dat van Inter-*Actief* is de
 
 Voorbeeld
 ---------
-<img src="{{ site.baseurl }}/assets/inter-actief-swirl.png" style="background-color: #fff; width: 30%;" title="100%" alt="100%" />
+<a href="{{ site.baseurl }}/assets/inter-actief-swirl.png" data-lightbox="swirl" data-title="Swirl">
+    <img src="{{ site.baseurl }}/assets/inter-actief-swirl.png" style="background-color: #fff; width: 30%;" title="100%" alt="100%" />
+</a>
 
  [AI]({{ site.baseurl }}/inter-actief-swirl.ai){:.btn .btn-white}
  [PDF]({{ site.baseurl }}/inter-actief-swirl.pdf){:.btn .btn-red}

@@ -10,8 +10,13 @@ slide die gebruikt kunnen worden voor het maken van presentaties. De presentatie
 
 Voorbeelden
 -----------
-![titeldia]({{ site.baseurl}}/assets/presentatie-titeldia.png)
-![dia]({{ site.baseurl}}/assets/presentatie-dia.png)
+<a href="{{ site.baseurl }}/assets/presentatie-titeldia.png" data-lightbox="presentatie" data-title="Titel Dia">
+    <img src="{{ site.baseurl }}/assets/presentatie-titeldia.png" />
+</a>
+
+<a href="{{ site.baseurl }}/assets/presentatie-dia.png" data-lightbox="presentatie" data-title="Dia">
+    <img src="{{ site.baseurl }}/assets/presentatie-dia.png" />
+</a>
 
 Zo werkt het
 ------------
@@ -20,4 +25,4 @@ Zo werkt het
 3. Voer de titel in als voettekst. Dat kan via Invoegen -> Koptekst en voettekst.
 4. Nu kun je nieuwe dia's toevoegen.
 
-[POWERPOINT]({{ site.baseurl}}/assets/inter-actief.potx){:.btn .btn-blue}
+[powerpoint]({{ site.baseurl}}/assets/inter-actief.potx){:.btn .btn-blue}

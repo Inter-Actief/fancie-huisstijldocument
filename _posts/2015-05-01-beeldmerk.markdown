@@ -16,6 +16,7 @@ Je kunt het beeldmerk gebruiken op speldjes, constitutiekaartjes en andere plaat
 Voorbeelden
 -----------
 
+{:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #1A1A1A; width: 24%;" title="90%" alt="90%" />
 <img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #333; width: 24%;" title="80%" alt="80%" />

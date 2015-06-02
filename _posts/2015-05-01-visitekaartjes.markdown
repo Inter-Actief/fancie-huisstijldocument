@@ -11,9 +11,13 @@ In de bestanden zit 3 mm marge zodat de drukker ze makkelijker kan snijden. Laat
 
 Voorbeelden
 -----------
-<img src="{{ site.baseurl }}/assets/visitekaartje-voor-85x55.png" style="width: 500px" />
+<a href="{{ site.baseurl }}/assets/visitekaartje-voor-85x55.png" data-lightbox="visitekaartje" data-title="Voorkant visitekaartje">
+    <img src="{{ site.baseurl }}/assets/visitekaartje-voor-85x55.png" style="width: 500px" />
+</a>
 
-<img src="{{ site.baseurl }}/assets/visitekaartje-achter-85x55.png" style="width: 500px" />
+<a href="{{ site.baseurl }}/assets/visitekaartje-achter-85x55.png" data-lightbox="visitekaartje" data-title="Achterkant visitekaartje">
+    <img src="{{ site.baseurl }}/assets/visitekaartje-achter-85x55.png" style="width: 500px" />
+</a>
 
 [voorkant]({{baseurl}}/assets/visitekaartje-voor-85x55.ai){:.btn .btn-white}
 [achterkant]({{baseurl}}/assets/visitekaartje-achter-85x55.ai){:.btn .btn-white}
