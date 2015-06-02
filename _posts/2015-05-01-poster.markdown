@@ -30,7 +30,9 @@ Tips:
 
 Voorbeelden
 -----------
-![demo]({{ site.baseurl}}/assets/postertemplate.png)
+<a href="{{ site.baseurl }}/assets/postertemplate.png" data-lightbox="postertemplate" data-title="Postertemplate">
+    <img src="{{ site.baseurl }}/assets/postertemplate.png" />
+</a>
 
 Downloads
 ---------
