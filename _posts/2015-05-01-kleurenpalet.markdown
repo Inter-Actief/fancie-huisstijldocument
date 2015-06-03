@@ -13,6 +13,7 @@ Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn naast blauw, groe
 
 Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal worden. Zowel voor drukwerk als digitaal
  werk zijn hieronder de kleuren gegeven.
+
 * Gebruik voor drukwerk bij voorkeur PMS, daarna CMYK.
 * Gebruik voor digitaal werk RGB of HEX.
 
