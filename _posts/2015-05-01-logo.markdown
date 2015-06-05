@@ -51,11 +51,14 @@ Downloads
 ---------
 
 {:.padding}
-|Logo verticaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg){:.btn .btn-blue}
-| Logo verticaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg){:.btn .btn-blue}
-| Logo horizontaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.svg){:.btn .btn-blue}
-| Logo horizontaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.svg){:.btn .btn-blue}
+| Logo verticaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-randloos.png){:.btn .btn-green} |
+| Logo verticaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit-randloos.png){:.btn .btn-green} |
+| Logo horizontaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-randloos.png){:.btn .btn-green} |
+| Logo horizontaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit-randloos.png){:.btn .btn-green} |
 
+* achtergrond is transparant
+* vormen zijn wit
+* PNG-bestanden zijn randloos
 
 Swirl
 -----

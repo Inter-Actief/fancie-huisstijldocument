@@ -33,7 +33,9 @@ Downloads
 ---------
 
 {:.padding}
-Blauw | [AI blauw]({{ site.baseurl }}/assets/inter-actief-beeldmerk.ai){:.btn .btn-white} | [PDF blauw]({{ site.baseurl }}/assets/inter-actief-beeldmerk.pdf){:.btn .btn-red} | [SVG blauw]({{ site.baseurl }}/assets/inter-actief-beeldmerk.svg){:.btn .btn-blue} |
-Wit | [AI wit]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.ai){:.btn .btn-white} | [PDF wit]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.pdf){:.btn .btn-red} | [SVG wit]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.svg){:.btn .btn-blue} |
+Beeldmerk (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-randloos.png){:.btn .btn-green} |
+Beeldmerk (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit-randloos.png){:.btn .btn-green} |
 
-Let op: de achtergrond is transparant, de vormen zijn wit.
+* achtergrond is transparant
+* vormen zijn wit
+* PNG-bestanden zijn randloos
