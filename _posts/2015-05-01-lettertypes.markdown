@@ -7,7 +7,7 @@ categories: algemeen
 
 Typografie is een belangrijk onderdeel van een huisstijl, daarom is er voor de meest voorkomende typen tekst is een
  lettertype gedefinieerd. Als het niet duidelijk is wat voor een soort tekst iets is kun je uit een van onderstaande
- stijlen kiezen. Wij raden af om andere stijlen te gebruiken tenzij hier een goede rede voor is. Dit voorkomt dat een
+ stijlen kiezen. Wij raden af om andere stijlen te gebruiken tenzij hier een goede reden voor is. Dit voorkomt dat een
  ontwerp rommelig wordt.
 
 Koppen (16pt)
