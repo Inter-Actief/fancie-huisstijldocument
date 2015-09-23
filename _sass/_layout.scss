@@ -231,6 +231,16 @@
   top: $spacing-unit;
 }
 
+@media screen and (max-width: 700px) {
+  .home {
+    width: 100%;
+  }
+  
+  .sidebar {
+    display: none;
+  }
+}
+
 /**
  * Sidebar
  */
