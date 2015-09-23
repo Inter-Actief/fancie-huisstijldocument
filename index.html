@@ -12,12 +12,6 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <ul>
-            {% for post in site.posts %}
-              <li><a href="#{{ post.title | slugify }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-
           <ul class="post-list">
             {% for post in site.posts %}
               <a name="{{ post.title | slugify }}"></a>
@@ -30,14 +24,9 @@
           <div data-spy="affix" data-offset-top="258">
             <div class="scrollspy">
               <ul id="nav" class="nav">
-                <li><a href="#Welkom">Welkom</a></li>
-                <li><a href="#Beeldmerk">Beeldmerk</a></li>
-                <li><a href="#Logo">Logo</a></li>
-                <li><a href="#Kleurenpalet">Kleurenpalet</a></li>
-                <li><a href="#Lettertypes">Lettertypes</a></li>
-                <li><a href="#Poster">Poster</a></li>
-                <li><a href="#Presentatietemplate">Presentatietemplate</a></li>
-                <li><a href="#Visitekaartjes">Visitekaartjes</a></li>
+                {% for post in site.posts %}
+                  <li><a href="#{{ post.title | slugify }}">{{ post.title }}</a></li>
+                {% endfor %}
               </ul>
             </div>
           </div>
