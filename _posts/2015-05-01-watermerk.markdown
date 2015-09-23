@@ -17,4 +17,5 @@ Voorbeelden
 
 Downloads
 ---------
+[AI]({{ site.baseurl }}/assets/inter-actief-flitcie-watermerk.ai){:.btn .btn-white}
 [PNG]({{ site.baseurl }}/assets/inter-actief-flitcie-watermerk.png){:.btn .btn-green}
