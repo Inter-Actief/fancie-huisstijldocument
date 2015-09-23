@@ -12,8 +12,15 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
+          <ul>
+            {% for post in site.posts %}
+              <li><a href="#{{ post.title | slugify }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+
           <ul class="post-list">
             {% for post in site.posts %}
+              <a name="{{ post.title | slugify }}"></a>
               {% assign content = post.content %}
               {% include post.html %}
             {% endfor %}
