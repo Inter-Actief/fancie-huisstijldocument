@@ -19,8 +19,3 @@ Project structure
 * `assets`: all downloadable content
 * `css`: site specific style settings
 * `index.html`: combines all posts into one page
-
-Huisstijlwebsite
------------------
-
-De huisstijlwebsite is hier te vinden: [http://huisstijl.inter-actief.net/](http://huisstijl.inter-actief.net/)
