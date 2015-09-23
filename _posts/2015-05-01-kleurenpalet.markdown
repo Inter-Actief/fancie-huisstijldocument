@@ -4,24 +4,25 @@ date:   2015-05-01 00:00:40
 categories: algemeen
 ---
 
-Bij Inter-*Actief* hebben we drie kleuren in gebruik. Dat zijn naast blauw, groen en rood. Natuurlijk is ons Inter-*Actief*
- blauw de kleur die het meeste herkenbaar is en we moedigen iedereen dan ook aan om ontwerpen zoveel mogelijk rond het
- blauw te bedenken. Als er meerdere kleuren nodig zijn kunnen groen en rood ook gebruikt worden, maar gebruik deze kleuren
- alleen als het nodig is. Vaak is een ontwerp dat slechts gebruik maakt van een kleur overtuigender dan een ontwerp dat
- te pas en te onpas allerlei kleuren gebruikt.
+Bij Inter-*Actief* hebben we drie kleuren in gebruik. Naast blauw zijn dat groen en rood. Natuurlijk is ons Inter-*Actief*-blauw de kleur die het meeste herkenbaar is en we moedigen iedereen dan ook aan om ontwerpen zoveel mogelijk rond het blauw te bedenken. Als er meerdere kleuren nodig zijn kunnen groen en rood ook gebruikt worden, maar gebruik deze kleuren alleen als het nodig is. Vaak is een ontwerp dat slechts gebruik maakt van een kleur overtuigender dan een ontwerp dat te pas en te onpas allerlei kleuren gebruikt.
 
-Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal worden. Zowel voor drukwerk als digitaal
- werk zijn hieronder de kleuren gegeven.
+Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal worden. Zowel voor drukwerk als digitaal werk zijn hieronder de kleuren gegeven.
 
 * Gebruik voor drukwerk bij voorkeur PMS, daarna CMYK.
 * Gebruik voor digitaal werk RGB of HEX.
+
+**Gebruik geen tools om kleuren om te rekenen, die zullen niet overeenkomen met de kleuren die hieronder zijn bepaald.**
+
+* **De middelste kolom geeft de basistint**
+* **De linkerkolom geeft een lichtere tint**
+* **De rechterkolom geeft een donkere tint**
 
 {:.blue}
 ### Blauw is de hoofdkleur.
 <table>
   <tr>
     <th></th>
-    <th style="background-color: #2450A8; height:   20px"></th>
+    <th style="background-color: #2450A8; height: 20px"></th>
     <th style="background-color: #1D428A; height: 20px"></th>
     <th style="background-color: #153065; height: 20px"></th>
   </tr>
