@@ -20,7 +20,7 @@ Project structure
 * `css`: site specific style settings
 * `index.html`: combines all posts into one page
 
-Huisstijl website
+Huisstijlwebsite
 -----------------
 
-De huisstijl website is hier te vinden: [http://huisstijl.inter-actief.net/](http://huisstijl.inter-actief.net/)
+De huisstijlwebsite is hier te vinden: [http://huisstijl.inter-actief.net/](http://huisstijl.inter-actief.net/)
