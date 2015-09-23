@@ -213,7 +213,46 @@
     font-size: 24px;
 }
 
+/**
+ * Post Layout
+ */
+.home {
+  float: left;
+  width: 80%;
+}
 
+.sidebar {
+  float: right;
+  width: 20%;
+}
+
+.affix {
+  position: fixed;
+  top: $spacing-unit;
+}
+
+/**
+ * Sidebar
+ */
+.scrollspy {
+  ul {
+    list-style: none;
+  }
+
+  li {
+    padding: 0px $spacing-unit-sml;
+    margin-left: 2px;
+  }
+
+  a:visited {
+    color: $brand-color;
+  }
+
+  .active {
+    border-left: 2px solid $brand-color;
+    margin-left: 0;
+  }
+}
 
 /**
  * Posts

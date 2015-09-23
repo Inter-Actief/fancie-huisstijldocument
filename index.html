@@ -5,7 +5,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body data-spy="scroll" data-target=".scrollspy">
 
     {% include header.html %}
 
@@ -25,6 +25,22 @@
               {% include post.html %}
             {% endfor %}
           </ul>
+        </div>
+        <div class="sidebar">
+          <div data-spy="affix" data-offset-top="258">
+            <div class="scrollspy">
+              <ul id="nav" class="nav">
+                <li><a href="#Welkom">Welkom</a></li>
+                <li><a href="#Beeldmerk">Beeldmerk</a></li>
+                <li><a href="#Logo">Logo</a></li>
+                <li><a href="#Kleurenpalet">Kleurenpalet</a></li>
+                <li><a href="#Lettertypes">Lettertypes</a></li>
+                <li><a href="#Poster">Poster</a></li>
+                <li><a href="#Presentatietemplate">Presentatietemplate</a></li>
+                <li><a href="#Visitekaartjes">Visitekaartjes</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
