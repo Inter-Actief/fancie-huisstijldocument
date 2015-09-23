@@ -8,7 +8,7 @@ Op deze pagina zijn linkjes te vinden naar bestanden die geen verder toelichting
 
 * ALV-stukken
 * [Briefpapier]({{ site.baseurl }}/assets/briefpapier.ai)
-* Enveloppen
+* Enveloppen: [AI]({{ site.baseurl }}/assets/enveloppen.ai) \| [PDF]({{ site.baseurl }}/assets/enveloppen.pdf)
 * Informatiepakket
 * Inlogscherm: [1050p]({{ site.baseurl }}/assets/achtergrond_1050p.png) \| [1080p]({{ site.baseurl }}/assets/achtergrond_1080p.png)
 * Kamerdeur
