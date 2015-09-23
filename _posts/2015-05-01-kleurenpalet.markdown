@@ -13,9 +13,11 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
 
 **Gebruik geen tools om kleuren om te rekenen, die zullen niet overeenkomen met de kleuren die hieronder zijn bepaald.**
 
+**Illustrator rondt kleuren intern af. Dit zorgt ervoor dat waarden na invoer kunnen afwijken.**
+
 * **De middelste kolom geeft de basistint**
-* **De linkerkolom geeft een lichtere tint**
-* **De rechterkolom geeft een donkere tint**
+* De linkerkolom geeft een lichtere tint
+* De rechterkolom geeft een donkere tint
 
 {:.blue}
 ### Blauw is de hoofdkleur.
