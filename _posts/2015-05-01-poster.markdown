@@ -14,7 +14,7 @@ Om een poster te ontwerpen hoef je geen expert te zijn op het gebied van ontwerp
  willen laten zoals ze zijn. Dit zorgt ervoor dat alle posters in ieder geval die elementen delen en dat vergroot de
  herkenbaarheid.
 
-Hoe werkt het
+Zo werkt het
 -------------
 1. Download de template en open deze.
 2. Vul de naam van de activiteit, datum en locatie bovenin in.
