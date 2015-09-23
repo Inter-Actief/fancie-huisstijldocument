@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Presentatietemplate"
 date:   2015-05-01 00:00:37
 categories: algemeen

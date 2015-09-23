@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Visitekaartjes"
 date:   2015-05-01 00:00:35
 categories: algemeen

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kleurenpalet"
 date:   2015-05-01 00:00:40
 categories: algemeen

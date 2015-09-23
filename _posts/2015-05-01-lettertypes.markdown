@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Lettertypes"
 date:   2015-05-01 00:00:39
 categories: algemeen
