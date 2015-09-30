@@ -3,7 +3,7 @@ title:  "Overige"
 date:   2015-05-01 00:00:10
 categories: algemeen
 ---
-Op deze pagina zijn linkjes te vinden naar bestanden die geen verder toelichting krijgen. Ze horen echter wel bij de huisstijl en daarom zijn ze hier te vinden.
+Hieronder staan bestanden die geen verder toelichting krijgen. Ze horen echter wel bij de huisstijl en daarom zijn ze hier te vinden.
 
 * ALV-stukken
 * [Briefpapier]({{ site.baseurl }}/assets/briefpapier.ai)
