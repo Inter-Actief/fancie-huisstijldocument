@@ -3,8 +3,8 @@ title:  "Watermerk"
 date:   2015-05-01 00:00:38
 categories: algemeen
 ---
-Een van de situaties waar een *normaal* wit logo met tekst voor problemen kan zorgen is bij het plaatsen van dit logo als 
- watermerk over een foto. Specifieker, een foto met redelijk lichte kleuren. Om die reden is er een beeldmerk dat ook goed 
+Een van de situaties waar een *normaal* wit logo met tekst voor problemen kan zorgen is bij het plaatsen van dit logo als
+ watermerk over een foto. Specifieker, een foto met redelijk lichte kleuren. Om die reden is er een beeldmerk dat ook goed
  zichtbaar is bij lichte achtergronden.
 
 Voorbeelden
