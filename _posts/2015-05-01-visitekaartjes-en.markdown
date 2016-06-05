@@ -1,16 +1,17 @@
 ---
-title:  "Visitekaartjes"
+title:  "Business cards"
 date:   2015-05-01 00:00:35
 categories: algemeen
-lang: nl
+lang: en
 ---
-Het visitekaartje bestaat uit twee delen welke in twee aparte bestanden staan, namelijk een voorkant en een achterkant.
+The business card template consists of two parts in two seperate files,
+ the front and back of the card.
 
-In de bestanden zit 3 mm marge zodat de drukker ze makkelijker kan snijden. Laat de drukker dit weten en geef het formaat
- van 85x55mm door aan de drukker.
+The files contain a margin of 3mm so the printer can cut them more easily.
+ Please tell this to the printer and also make sure the format is 85x55mm.
 
-Voorbeelden
------------
+Examples
+--------
 <a href="{{ site.baseurl }}/assets/visitekaartje-voor-85x55.png" data-lightbox="visitekaartje" data-title="Voorkant visitekaartje">
     <img src="{{ site.baseurl }}/assets/visitekaartje-voor-85x55.png" style="width: 500px" />
 </a>
@@ -19,5 +20,5 @@ Voorbeelden
     <img src="{{ site.baseurl }}/assets/visitekaartje-achter-85x55.png" style="width: 500px" />
 </a>
 
-[voorkant]({{baseurl}}/assets/visitekaartje-voor-85x55.ai){:.btn .btn-white}
-[achterkant]({{baseurl}}/assets/visitekaartje-achter-85x55.ai){:.btn .btn-white}
+[front]({{baseurl}}/assets/visitekaartje-voor-85x55.ai){:.btn .btn-white}
+[back]({{baseurl}}/assets/visitekaartje-achter-85x55.ai){:.btn .btn-white}

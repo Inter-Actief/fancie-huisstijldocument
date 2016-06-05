@@ -2,6 +2,7 @@
 title:  "Poster"
 date:   2015-05-01 00:00:38
 categories: algemeen
+lang: nl
 ---
 De poster is natuurlijk een van de belangrijkste onderdelen van de huisstijl van Inter-*Actief*. Posters worden veel gebruikt
  en hangen vaak op goed zichtbare plekken voor zowel leden als externen. Het is daarom ook belangrijk dat onze posters

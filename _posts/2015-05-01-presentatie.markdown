@@ -2,6 +2,7 @@
 title:  "Presentatie"
 date:   2015-05-01 00:00:37
 categories: algemeen
+lang: nl
 ---
 Voor het geven van presentaties is er een presentatietemplate beschikbaar. Deze bevat een titelslide en een standaard
 slide die gebruikt kunnen worden voor het maken van presentaties. De presentatietemplate van Inter-*Actief* is geschikt

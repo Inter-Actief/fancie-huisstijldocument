@@ -1,20 +1,20 @@
 ---
-title:  "Beeldmerk"
+title:  "Mark"
 date:   2015-05-01 00:00:42
 categories: algemeen
-lang: nl
+lang: en
 ---
-Het beeldmerk van Inter-*Actief* is gebaseerd op het THT-logo. Later is hier een boog aan toegevoegd, die swirl genoemd
- wordt. Het beeldmerk bevat **niet** de tekst Inter-*Actief*.
+The mark of Inter-*Actief* is based on the THT mark. Later on an arch was added which we now call the swirl. The mark
+ does not contain the text Inter-*Actief*.
 
-Je kunt het beeldmerk gebruiken op speldjes, constitutiekaartjes en andere plaatsen waar de ruimte beperkt is. Gebruik
- bij voldoende ruimte het volledige [logo]({% post_url 2015-05-01-logo %}). Als je meerdere keren het logo wilt gebruiken
- in een document kun je na de eerste keer ook het beeldmerk gebruiken in plaats van het volledige logo. Het beeldmerk mag
- in de originele blauwe of witte kleur worden gebruikt, zolang het contrast voldoende is. Houd een marge aan van 10% ten
- op zichte het gehele beeldmerk, zoals in de voorbeelden te zien is.
+The mark can be used on pins and other places where the amount of space is limited. When there is enough space please
+ use the complete [logo]({% post_url 2015-05-01-logo %}). If you want to use the logo in multiple places in a document
+ you can also use the mark in subsequent places instead of the complete logo. The mark can be used in the original blue
+ or white color as long as the contrast is good enough. Please use a margin of 10% around the mark as can be seen in the
+ examples.
 
-Voorbeelden
------------
+Examples
+--------
 
 {:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
@@ -33,9 +33,9 @@ Downloads
 ---------
 
 {:.padding}
-Beeldmerk (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-randloos.png){:.btn .btn-green} |
-Beeldmerk (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit-randloos.png){:.btn .btn-green} |
+Mark (blue) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-randloos.png){:.btn .btn-green} |
+Mark (white) | [AI]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-beeldmerk-wit-randloos.png){:.btn .btn-green} |
 
-* achtergrond is transparant
-* vormen zijn wit
-* PNG-bestanden zijn randloos
+* background is transparent
+* mark is white
+* PNG files are borderless
