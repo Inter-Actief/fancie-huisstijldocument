@@ -2,18 +2,20 @@
 title:  "Logo"
 date:   2015-05-01 00:00:41
 categories: algemeen
-lang: nl
+lang: en
 ---
-Het logo van Inter-*Actief* bestaat uit het beeldmerk en de tekst  Inter-*Actief*. Het logo wordt overal gebruikt waar
- Inter-*Actief* wordt afgebeeld, tenzij de ruimte te klein is. Zorg ervoor dat op alle communicatie van  Inter-*Actief*
- minimaal een logo staat. Als er echt geen plek is voor het volledige logo raden wij aan het beeldmerk te gebruiken.
- Het logo mag in de originele blauwe of witte kleur worden gebruikt, zolang het contrast voldoende is. Houd een marge
- van 10% aan ten op zichte het gehele beeldmerk, zoals in de voorbeelden te zien is.
+The logo of Inter-*Actief* consists of the mark and the text Inter-*Actief*.
+ The logo is used in all places where Inter-*Actief* is presented, unless
+ the space is to small to fit the logo. Please make sure that all communication
+ from Inter-*Actief* atleast contains a logo. If there really is no space
+ for the full logo you can use the mark. The logo can be used in the original
+ blue or white color as long as there is enough contrast. Please use a margin
+ of 10% around the logo as can be seen in the examples.
 
-Voorbeelden
------------
+Examples
+--------
 
-### Logo verticaal
+### Logo vertical
 
 {:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-onder-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
@@ -30,7 +32,7 @@ Voorbeelden
 
 <div class="clear-both"></div>
 
-### Logo horizontaal
+### Logo horizontal
 
 {:.no-justify}
 <img src="{{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.png" style="background-color: #000; width: 24%;" title="100%" alt="100%" />
@@ -51,22 +53,22 @@ Downloads
 ---------
 
 {:.padding}
-| Logo verticaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-randloos.png){:.btn .btn-green} |
-| Logo verticaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit-randloos.png){:.btn .btn-green} |
-| Logo horizontaal (blauw) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-randloos.png){:.btn .btn-green} |
-| Logo horizontaal (wit) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit-randloos.png){:.btn .btn-green} |
+| Logo vertical (blue) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-randloos.png){:.btn .btn-green} |
+| Logo vertical (white) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-onder-wit-randloos.png){:.btn .btn-green} |
+| Logo horizontal (blue) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-randloos.png){:.btn .btn-green} |
+| Logo horizontal (white) | [AI]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.ai){:.btn .btn-white} | [PDF]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.pdf){:.btn .btn-red} | [SVG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit.svg){:.btn .btn-blue} | [PNG]({{ site.baseurl }}/assets/inter-actief-logo-tekst-rechts-wit-randloos.png){:.btn .btn-green} |
 
-* achtergrond is transparant
-* vormen zijn wit
-* PNG-bestanden zijn randloos
+* background is transparent
+* logo is white
+* PNG files are borderless
 
 Swirl
 -----
 <a name="swirl"></a>
-Voor commissielogo's die hun logo willen baseren op dat van Inter-*Actief* is de swirl ook los beschikbaar.
+Committees that want to design a logo based on the Inter-*Actief* can also use a stand alone version of the swirl.
 
-Voorbeeld
----------
+Example
+-------
 <a href="{{ site.baseurl }}/assets/inter-actief-swirl.png" data-lightbox="swirl" data-title="Swirl">
     <img src="{{ site.baseurl }}/assets/inter-actief-swirl.png" style="background-color: #fff; width: 30%;" title="100%" alt="100%" />
 </a>

@@ -1,5 +1,5 @@
 ---
-lang: nl
+lang: en
 ---
 <html>
 
@@ -7,14 +7,14 @@ lang: nl
 
   <body data-spy="scroll" data-target=".scrollspy">
 
-    {% include header.html %}
+    {% include header-en.html %}
 
     {% assign posts=site.posts | where: "lang", page.lang %}
 
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <a href="{{ site.baseurl }}/en/"><img src="{{ site.baseurl }}/assets/gb.png"> English version</a>
+          <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/nl.png"> Nederlands</a>
           <ul class="post-list">
             {% for post in posts %}
               <a name="{{ post.title | slugify }}"></a>
@@ -37,7 +37,7 @@ lang: nl
       </div>
     </div>
 
-    {% include footer.html %}
+    {% include footer-en.html %}
 
   </body>
 

@@ -1,15 +1,15 @@
 ---
-title:  "Watermerk"
+title:  "Watermark"
 date:   2015-05-01 00:00:38
 categories: algemeen
-lang: nl
+lang: en
 ---
-Een van de situaties waar een *normaal* wit logo met tekst voor problemen kan zorgen is bij het plaatsen van dit logo als
- watermerk over een foto. Specifieker, een foto met redelijk lichte kleuren. Om die reden is er een beeldmerk dat ook goed
- zichtbaar is bij lichte achtergronden.
+One of the situtations that is not suited for the *normal* white logo is
+ a watermark on a picture. Especially when to picture contains light colors.
+ For this reason we provide a variant that is also visible on ligt background.
 
-Voorbeelden
------------
+Examples
+--------
 <a href="{{ site.baseurl }}/assets/inter-actief-flitcie-watermerk.png" data-lightbox="watermerk" data-title="Watermerk">
     <img src="{{ site.baseurl }}/assets/inter-actief-flitcie-watermerk.png" />
 </a>

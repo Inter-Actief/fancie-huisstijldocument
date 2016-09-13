@@ -1,0 +1,43 @@
+---
+title:  "Poster"
+date:   2015-05-01 00:00:38
+categories: algemeen
+lang: en
+---
+Ofcourse, the poster is one of the more important parts of the corporate
+ identity of Inter-*Actief*. Posters are used frequently and are placed
+ in places visible to both members and outsiders. Therefore it is important
+ that our posters are high quality. We hope that the poster template will
+ provide a good starting point for the design of Inter-*Actief* posters.
+
+You do not need to be an expert designer to design a poster. The template
+ has ben constructed to make it easy to produce a nice poster with minimal
+ effort. However if you want to let loose you creativity nothing is stopping
+ you. We do ask however that you leave the common elements the same
+ (title, name of committee, logo, etc.). This ensures that all posters have
+ at least something in common and increases recognizability.
+
+This is how it works
+--------------------
+1. Download the template and open it.
+2. Fill in the name of the activity, date and locations at the top.
+3. Fill in the name of the committee at the bottom.
+4. Find a cool picture for the background and make sure that it is AT LEAST 4 MegaPixel.
+5. Save the poster as PDF and mail it to Xerox.
+
+Tips:
+
+* The layers (bottom right in Illustrator) contain a seperate layer for the background picture.
+ If you import the picture as a layer and move it under the background layer, it will be cut to size automatically.
+* Even though the template can be used with many different background images,
+ we advice you to not use images with extremely light background. Also, make sure that the text at the top is still readable after inserting the background image.
+
+Examples
+--------
+<a href="{{ site.baseurl }}/assets/postertemplate.png" data-lightbox="postertemplate" data-title="Postertemplate">
+    <img src="{{ site.baseurl }}/assets/postertemplate.png" />
+</a>
+
+Downloads
+---------
+[AI]({{ site.baseurl }}/assets/postertemplate.ai){:.btn .btn-white}

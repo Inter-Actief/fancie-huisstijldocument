@@ -1,27 +1,34 @@
 ---
-title:  "Kleurenpalet"
+title:  "Color Palette"
 date:   2015-05-01 00:00:40
 categories: algemeen
-lang: nl
+lang: en
 ---
 
-Bij Inter-*Actief* hebben we drie kleuren in gebruik. Naast blauw zijn dat groen en rood. Natuurlijk is ons Inter-*Actief*-blauw de kleur die het meeste herkenbaar is en we moedigen iedereen dan ook aan om ontwerpen zoveel mogelijk rond het blauw te bedenken. Als er meerdere kleuren nodig zijn kunnen groen en rood ook gebruikt worden, maar gebruik deze kleuren alleen als het nodig is. Vaak is een ontwerp dat slechts gebruik maakt van een kleur overtuigender dan een ontwerp dat te pas en te onpas allerlei kleuren gebruikt.
+We use three colors as Inter-*Actief*. Besides blue, these are green and
+ red. Ofcourse blue is the most recognizable and therefore we encourage
+ you to create designs that use blue as much as possible. If you need 
+ to use multiple colors, you can use green and red besides blue, but only
+ use these if it is necessary. In many cases a design consisting of only
+ one color is much more pronounced than one that inappropriately uses a
+ lot of different colors.
 
-Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal worden. Zowel voor drukwerk als digitaal werk zijn hieronder de kleuren gegeven.
+Please ensure that the color you pick is suited for the medium you are designing
+ for. Colors are listed both for digital as well as printed media.
 
-* Gebruik voor drukwerk bij voorkeur PMS, daarna CMYK.
-* Gebruik voor digitaal werk RGB of HEX.
+* Use PMS or CMYK for printed media.
+* Use RGB or HEX for digital media.
 
-**Gebruik geen tools om kleuren om te rekenen, die zullen niet overeenkomen met de kleuren die hieronder zijn bepaald.**
+**Do not use tools to convert the color values, because they will not match the values that are shown below.**
 
-**Illustrator rondt kleuren intern af. Dit zorgt ervoor dat waarden na invoer kunnen afwijken.**
+**Illustrator rounds color values internally. This can result different values after you input them.**
 
-* **De middelste kolom geeft de basistint**
-* De linkerkolom geeft een lichtere tint
-* De rechterkolom geeft een donkere tint
+* **The middle column shows the base color.**
+* The left column shows a lighter variant
+* The right column shows a darker variant
 
 {:.blue}
-### Blauw is de hoofdkleur.
+### Blue is the main color.
 <table>
   <tr>
     <th></th>
@@ -30,7 +37,7 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
     <th style="background-color: #153065; height: 20px"></th>
   </tr>
   <tr>
-    <td>Pantone/PMS</td><td>-</td><td><strong>7687 C (glans)</strong></td><td>-</td>
+    <td>Pantone/PMS</td><td>-</td><td><strong>7687 C (glossy)</strong></td><td>-</td>
   </tr>
   <tr>
     <td>CMYK</td><td>79, 52, 0, 34</td><td><strong>100, 78, 0, 18</strong></td><td>79, 52, 0, 60</td>
@@ -44,7 +51,7 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
 </table>
 
 {:.green}
-### Gebruik groen als eerste steunkleur.
+### Use green as the primary supporting color.
 <table>
   <tr>
     <th></th>
@@ -53,7 +60,7 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
     <th style="background-color: #044D15; height: 20px"></th>
   </tr>
   <tr>
-    <td>Pantone/PMS</td><td>-</td><td><strong>0356 C (glans)</strong></td><td>-</td>
+    <td>Pantone/PMS</td><td>-</td><td><strong>0356 C (glossy)</strong></td><td>-</td>
   </tr>
   <tr>
     <td>CMYK</td><td>94, 0, 72, 40</td><td><strong>94, 0, 73, 53</strong></td><td>95, 0, 73, 70</td>
@@ -67,7 +74,7 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
 </table>
 
 {:.red}
-### Gebruik rood als tweede steunkleur.
+### Use red as the secondary supporting color.
 <table>
   <tr>
     <th></th>
@@ -76,7 +83,7 @@ Let bij het kiezen van de kleuren op het uiteindelijke formaat dat gebruikt zal 
     <th style="background-color: #9D1F1B; height: 20px"></th>
   </tr>
   <tr>
-    <td>Pantone/PMS</td><td>-</td><td><strong>7627 C (glans)</strong></td><td>-</td>
+    <td>Pantone/PMS</td><td>-</td><td><strong>7627 C (glossy)</strong></td><td>-</td>
   </tr>
   <tr>
     <td>CMYK</td><td>0, 77, 79, 14</td><td><strong>0, 81, 83, 28</strong></td><td>0, 80, 83, 38</td>

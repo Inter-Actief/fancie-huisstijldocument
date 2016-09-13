@@ -2,6 +2,7 @@
 title:  "Lettertypes"
 date:   2015-05-01 00:00:39
 categories: algemeen
+lang: nl
 ---
 
 Typografie is een belangrijk onderdeel van een huisstijl, daarom is er voor de meest voorkomende typen tekst is een
