@@ -41,4 +41,4 @@ Examples
 Downloads
 ---------
 [AI]({{ site.baseurl }}/assets/postertemplate.ai){:.btn .btn-white}
-[ID]({{ site.baseurl }}/assets/postertemplate.indd){:.btn .btn-white}
+[ID]({{ site.baseurl }}/assets/postertemplate.indt){:.btn .btn-white}
