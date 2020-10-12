@@ -14,6 +14,10 @@ Om een poster te ontwerpen hoef je geen expert te zijn op het gebied van ontwerp
  in zijn poster is de template geschikt. Wel vragen we of de jullie standaard elementen (titel, commissienaam, logo, etc.)
  willen laten zoals ze zijn. Dit zorgt ervoor dat alle posters in ieder geval die elementen delen en dat vergroot de
  herkenbaarheid.
+ 
+ Als je geen Illustrator hebt, of je kan er niet mee werken, dan kan je met onze poster maker een simpele poster maken in de huisstijl.
+ Met deze postermaker hoef je alleen maar de tekst, informatie en een afbeelding te uploaden en je poster wordt daarmee gegenereerd.
+ De tool kan je op [postermaker.inter-actief.net](https://postermaker.inter-actief.net) vinden.
 
 Zo werkt het
 -------------

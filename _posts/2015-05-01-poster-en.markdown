@@ -16,6 +16,11 @@ You do not need to be an expert designer to design a poster. The template
  you. We do ask however that you leave the common elements the same
  (title, name of committee, logo, etc.). This ensures that all posters have
  at least something in common and increases recognizability.
+ 
+ If you do not have Illustrator, or have no experience using it, you can always use our postermaker to create a simple poster using our corporate identity.
+ You only have to fill in the text, a description and upload an image to create a poster.
+ This tool can be found at [postermaker.inter-actief.net](https://postermaker.inter-actief.net).
+ 
 
 This is how it works
 --------------------
